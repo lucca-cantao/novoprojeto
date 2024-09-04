@@ -1,0 +1,13 @@
+.Main{
+    background: url(/src\assets\8669ababbeb05ed394d8aad8629a90e5.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: -88px;
+    box-shadow:inset 0 5px 30px 30px #00000030;
+}
